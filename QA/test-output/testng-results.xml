@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-01-21T01:28:14 IST" name="Default suite" finished-at="2022-01-21T01:29:43 IST" duration-ms="89290">
+    <groups>
+    </groups>
+    <test started-at="2022-01-21T01:28:14 IST" name="Default test" finished-at="2022-01-21T01:29:43 IST" duration-ms="89290">
+      <class name="ExecuteTestCase.Assignment">
+        <test-method is-config="true" signature="webdriver()[pri:0, instance:ExecuteTestCase.Assignment@6f7923a5]" started-at="2022-01-21T01:28:14 IST" name="webdriver" finished-at="2022-01-21T01:28:29 IST" duration-ms="14443" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- webdriver -->
+        <test-method signature="first()[pri:0, instance:ExecuteTestCase.Assignment@6f7923a5]" started-at="2022-01-21T01:28:29 IST" name="first" finished-at="2022-01-21T01:28:36 IST" duration-ms="7379" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- first -->
+        <test-method signature="second()[pri:0, instance:ExecuteTestCase.Assignment@6f7923a5]" started-at="2022-01-21T01:28:36 IST" name="second" finished-at="2022-01-21T01:28:55 IST" duration-ms="18523" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- second -->
+        <test-method signature="third()[pri:3, instance:ExecuteTestCase.Assignment@6f7923a5]" started-at="2022-01-21T01:28:55 IST" name="third" finished-at="2022-01-21T01:29:43 IST" duration-ms="48727" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- third -->
+      </class> <!-- ExecuteTestCase.Assignment -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
